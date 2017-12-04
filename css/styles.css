@@ -50,6 +50,7 @@ header{
 
 .gallery-row{
 	padding: 2em;
+	margin:0 auto;
 }
 
 button:hover,
