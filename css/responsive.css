@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+    header {
+        background: url("../img/landing-background-mobile.png") no-repeat center center;
+        background-size:cover;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container-fluid, section{
+    	padding:0px;
+    }
+
+    .logo-colour{
+    	margin-top: -15em;
+    }
+
+    .cause-description{
+    	width: 100%;
+    }
+
+    .slick-slide{
+    	margin-right: 20px;
+		margin-left: 20px;
+    }
+}

@@ -1,0 +1,100 @@
+html, body {
+  height:100%;
+  padding: 0;
+  margin:0;
+  font-family: Ubuntu", sans-serif;
+}
+
+
+header{
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	background: url("../img/landing-background-desktop.png");
+}
+
+.section-title{
+	font-family: "Gochi Hand";
+	color: #E50032;
+	padding: 1em;
+
+}
+
+.cause-description{
+	padding: 3.5em 4em;
+	
+}
+
+.cause-description span{
+	font-weight: bold;
+	color: #E50032;
+}
+
+.wrapping-paper-image{
+	max-width:100%;
+	height: auto;
+}
+
+.logo-colour{
+	max-width: 25em;
+}
+
+.wrapping-paper-title{
+	font-weight: 400;
+	padding: 0.25em;
+}
+
+.wrapping-paper-designer{
+	font-weight: 100;
+}
+
+.gallery-row{
+	padding: 2em;
+}
+
+button:hover,
+a:hover{
+	cursor:pointer;
+}
+
+.red-col{
+	background:  #E50032;
+}
+
+.white-title{
+	color:white;
+	padding-top: 20%;
+}
+
+.mission-description{
+	padding: 1rem 2rem;
+	width:70%;
+}
+
+.link{
+	color: #E50032;
+}
+
+.link:hover{
+	text-decoration: none;
+	color: #E50032;
+	cursor: pointer;
+	font-weight: 700;
+	transition: .5 ease-in;
+}
+
+.event-details{
+	background:#E50032 ;
+	color: white;
+	padding: 5em;
+}
+
+.event-details p {
+	width: 70%;
+}
+
+.event-details p span{
+	font-weight: bold;
+}
+
+	
